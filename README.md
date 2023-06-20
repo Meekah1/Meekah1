@@ -9,7 +9,7 @@ to build reusable components, manage state and optimize performance.
 
 Through my passion for frontend development and commitment to excellence, I have 
 demonstrated my ability to deliver outstanding results in a dynamic and fast-paced 
-environment. 
+environment <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/thumbs-up.gif" width="30px">. 
 
 I look forward to leveraging my skills and experience to drive new and 
 exciting projects in the future <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/elbow.gif" width="30px">. 
