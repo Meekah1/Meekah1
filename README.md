@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/koma_lee)
 
 A Software Developer who specializes in Frontend development and leans heavily towards this area of expertise. 
-I have extensive knowledge of React.js and its ecosystem, including React Router, and Redux with a deep understanding of how 
+I have extensive knowledge of React.js and its ecosystem, including React Router. I have a deep understanding of how 
 to build reusable components, manage state and optimize performance. 
 
 Through my passion for frontend development and commitment to excellence, I have 
