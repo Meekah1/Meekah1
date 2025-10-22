@@ -2,7 +2,9 @@
 
 ---
 
-![Twitter Follow](https://x.com/koma_lee)
+### 🌐 Connect with me  
+[![Twitter Follow](https://img.shields.io/twitter/follow/koma_lee?style=social)](https://twitter.com/koma_lee)
+
 
 A Software Developer who specializes in Frontend development and leans heavily towards this area of expertise. 
 I have extensive knowledge of React.js and its ecosystem, including React Router. I have a deep understanding of how 
